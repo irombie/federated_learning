@@ -1,4 +1,4 @@
-Federated Learning
+# Federated Learning
 A federated learning tutorial sequence using PyTorch. 
 
 The files consist of the following: 
