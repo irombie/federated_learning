@@ -4,7 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 visuals/
-..ipynb_checkpoints/
+.ipynb_checkpoints/
 # User-specific files
 *.rsuser
 *.suo
